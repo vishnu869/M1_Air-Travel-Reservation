@@ -1,4 +1,4 @@
-# vishnu869/M1_Air-Travel-Reservation
+# M1_Air-Travel-Reservation
 ![Banner](https://github.com/vishnu869/M1_Air-Travel-Reservation/blob/main/1_Requirements/banner.png)
 
 [![CI](https://github.com/vishnu869/M1_Air-Travel-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/vishnu869/M1_Air-Travel-Reservation/actions/workflows/build.yml)
