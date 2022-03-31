@@ -1,5 +1,5 @@
 /**
- * @file airline_reservation.c
+ * @file airtravel_reservation.c
  * @author vishnu869
  * @brief 
  * @version 0.1
@@ -9,7 +9,7 @@
  * 
  */
 
-#include "airline_reservation.h"
+#include "airtravel_reservation.h"
 #define size 5
 #include "assert.h"
 void create( )
