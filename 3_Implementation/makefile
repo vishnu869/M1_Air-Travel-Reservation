@@ -1,13 +1,13 @@
 
 
-PROJ_NAME = Airline_Reservation
+PROJ_NAME = Airtravel_Reservation
 SRC = test_project_main.c\
 src/airline_reservation.c\
 
 
 
 
-TEST_SRC =src/airline_reservation.c\
+TEST_SRC =src/airtravel_reservation.c\
 test/test_project_main.c\
 unity/unity.c 
   
