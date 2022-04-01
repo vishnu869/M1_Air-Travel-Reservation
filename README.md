@@ -27,7 +27,7 @@ Talking about the features of AirTravel Reservation, the system asks for the pas
 Folder             | Description
 -------------------| -----------------------------------------
 `Requirements`   | Documents detailing requirements and research
-`Architecture`   | Documents specifying design details
+`Design`         | Documents specifying design details
 `Implementation` | All code and documentation
 `Test_plan`      | Documents with test plans and procedures
 
